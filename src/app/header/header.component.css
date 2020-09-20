@@ -1,0 +1,18 @@
+.headerStyle {
+  background-color: darkslategrey;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.name {
+  vertical-align: sub;
+  font-family: monospace;
+  font-size: 21px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,43 @@
+.work {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.workCard {
+    min-height: 245px;
+    max-height: 245px;
+}
+
+.duration {
+    font-size: 12px;
+}
+
+.description {
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.cardHeader {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.communityCard {
+    color: black;
+    font-size: small;
+    max-height: 225px;
+    min-height: 225px;
+}
+
+.cardData {
+    overflow-y: auto;
+}
+
+.card-title {
+    line-height: normal;
+    margin-bottom: 0px;
+}

@@ -1,0 +1,22 @@
+.introduction {
+  text-align: justify;
+}
+
+.homeData {
+  background-color: aliceblue;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: teal;
+  font-weight: bold;
+}
+
+b {
+  color: dimgray;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
